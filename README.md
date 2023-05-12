@@ -1,2 +1,3 @@
-# design_patterns
-Design patterns implementations in javascript
+# Design Patterns
+
+Design patterns implementation in javascript
